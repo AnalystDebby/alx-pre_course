@@ -1,1 +1,1 @@
-An alx git started project
+An ALX git starter project
